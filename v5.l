@@ -1,3 +1,4 @@
+lex file
 /*	lexer V5
   *
   *	recognize tokens
