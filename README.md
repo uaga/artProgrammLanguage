@@ -1,2 +1,2 @@
-# artProgrammLanguage
+# ArtProgrammLanguage
 My Programming language
