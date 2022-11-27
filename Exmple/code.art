@@ -1,0 +1,4 @@
+if( (temp>28) & (heating==1) ){
+   heating = 0;
+   printf(heating);
+};
