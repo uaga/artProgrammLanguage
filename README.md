@@ -1,4 +1,4 @@
-# ArtProgrammLanguage
+# ArtProgrammLanguage (Lexx and Yacc)
 
 ## V5 - последняя версия моего языка программирования для управления умным домом
 
